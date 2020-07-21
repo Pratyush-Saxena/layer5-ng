@@ -1,3 +1,11 @@
+# ⚠️This effort has been consolidated into the layer5 repo.⚠️
+
+
+
+
+
+
+
 # layer5-ng
 This repository is for development of the next generation of layer5.io using Gatsby and Strapi.
 
